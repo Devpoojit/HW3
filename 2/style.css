@@ -1,0 +1,19 @@
+#text {
+    text-align: center;
+}
+
+#btnDiv {
+    text-align: center;
+}
+
+.btn {
+    height: 40px;
+    width: 65px;
+    border-style: solid;
+    border-radius: 10%;
+    
+}
+
+button:hover {
+    border-color: rgb(54, 158, 254);
+}
